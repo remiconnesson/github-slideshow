@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-# *__Life is f***ing Beautiful__*
+# *Life is f***ing Beautiful*
 Use the left arrow to go back!
